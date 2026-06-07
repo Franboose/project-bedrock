@@ -1,0 +1,7 @@
+aws_region         = "us-east-1"
+cluster_name       = "project-bedrock-cluster"
+vpc_name           = "project-bedrock-vpc"
+student_id         = "alt-soe-025-3564"
+db_master_username = "adminuser"
+eks_version        = "1.34"
+node_instance_type = "t3.medium"
