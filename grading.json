@@ -1,0 +1,62 @@
+{
+  "assets_bucket_name": {
+    "sensitive": false,
+    "type": "string",
+    "value": "bedrock-assets-alt-soe-025-3564"
+  },
+  "cluster_endpoint": {
+    "sensitive": false,
+    "type": "string",
+    "value": "https://4697DC14E735122F0B8FA1CD3792C2BA.gr7.us-east-1.eks.amazonaws.com"
+  },
+  "cluster_name": {
+    "sensitive": false,
+    "type": "string",
+    "value": "project-bedrock-cluster"
+  },
+  "console_login_url": {
+    "sensitive": false,
+    "type": "string",
+    "value": "https://656867847125.signin.aws.amazon.com/console"
+  },
+  "dev_user_access_key_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "AKIAZR4C75PK3WVPNEPB"
+  },
+  "dev_user_console_password": {
+    "sensitive": true,
+    "type": "string",
+    "value": "{Q73gUM0lb}*2vKd$+P2"
+  },
+  "dev_user_secret_key": {
+    "sensitive": true,
+    "type": "string",
+    "value": "Y3q7NRRE7X4PKW4smlF9D1fbkeJ2cFVl+5158Edk"
+  },
+  "dynamodb_table_name": {
+    "sensitive": false,
+    "type": "string",
+    "value": "project-bedrock-carts"
+  },
+  "mysql_endpoint": {
+    "sensitive": false,
+    "type": "string",
+    "value": "project-bedrock-mysql.cod0em64ufaw.us-east-1.rds.amazonaws.com"
+  },
+  "postgresql_endpoint": {
+    "sensitive": false,
+    "type": "string",
+    "value": "project-bedrock-postgresql.cod0em64ufaw.us-east-1.rds.amazonaws.com"
+  },
+  "region": {
+    "sensitive": false,
+    "type": "string",
+    "value": "us-east-1"
+  },
+  "vpc_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "vpc-0fca0e9e5d344069b"
+  }
+}

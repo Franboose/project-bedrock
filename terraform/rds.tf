@@ -62,7 +62,7 @@ resource "aws_db_instance" "mysql" {
 resource "aws_db_instance" "postgresql" {
   identifier             = "project-bedrock-postgresql"
   engine                 = "postgres"
-  engine_version         = "15.5"
+  engine_version         = "16.4"
   instance_class         = "db.t3.micro"
   allocated_storage      = 20
   storage_encrypted      = true
