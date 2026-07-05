@@ -12,7 +12,7 @@ variable "vpc_name" {
 }
 variable "student_id" {
   type    = string
-  default = "alt-soe-025-3564"
+  default = "karatu-student-003"
 }
 variable "eks_version" {
   type    = string
