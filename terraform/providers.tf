@@ -9,7 +9,7 @@ terraform {
     key            = "project-bedrock/terraform.tfstate"
     region         = "us-east-1"
     encrypt        = true
-    use_lockfile = true
+    dynamodb_table = "tfstate-lock-karatu-student-003"
   }
 }
 provider "aws" {
