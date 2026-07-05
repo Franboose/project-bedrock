@@ -2,12 +2,12 @@
   "assets_bucket_name": {
     "sensitive": false,
     "type": "string",
-    "value": "bedrock-assets-alt-soe-025-3564"
+    "value": "bedrock-assets-karatu-student-003"
   },
   "cluster_endpoint": {
     "sensitive": false,
     "type": "string",
-    "value": "https://4697DC14E735122F0B8FA1CD3792C2BA.gr7.us-east-1.eks.amazonaws.com"
+    "value": "https://506AEB7440EEA8DBB850B17F4170FDD7.gr7.us-east-1.eks.amazonaws.com"
   },
   "cluster_name": {
     "sensitive": false,
@@ -17,22 +17,22 @@
   "console_login_url": {
     "sensitive": false,
     "type": "string",
-    "value": "https://656867847125.signin.aws.amazon.com/console"
+    "value": "https://713729539092.signin.aws.amazon.com/console"
   },
   "dev_user_access_key_id": {
     "sensitive": false,
     "type": "string",
-    "value": "AKIAZR4C75PK3WVPNEPB"
+    "value": "AKIA2MLMYPQKHC36QHO2"
   },
   "dev_user_console_password": {
     "sensitive": true,
     "type": "string",
-    "value": "{Q73gUM0lb}*2vKd$+P2"
+    "value": "gla)mceAXQRZ42JVLFpp"
   },
   "dev_user_secret_key": {
     "sensitive": true,
     "type": "string",
-    "value": "Y3q7NRRE7X4PKW4smlF9D1fbkeJ2cFVl+5158Edk"
+    "value": "iOa/+OMQwsIL8/1ZhD8lzvjl169UCFOsh+cAvHQe"
   },
   "dynamodb_table_name": {
     "sensitive": false,
@@ -42,12 +42,12 @@
   "mysql_endpoint": {
     "sensitive": false,
     "type": "string",
-    "value": "project-bedrock-mysql.cod0em64ufaw.us-east-1.rds.amazonaws.com"
+    "value": "project-bedrock-mysql.cipu24u4g6rx.us-east-1.rds.amazonaws.com"
   },
   "postgresql_endpoint": {
     "sensitive": false,
     "type": "string",
-    "value": "project-bedrock-postgresql.cod0em64ufaw.us-east-1.rds.amazonaws.com"
+    "value": "project-bedrock-postgresql.cipu24u4g6rx.us-east-1.rds.amazonaws.com"
   },
   "region": {
     "sensitive": false,
@@ -57,6 +57,6 @@
   "vpc_id": {
     "sensitive": false,
     "type": "string",
-    "value": "vpc-0fca0e9e5d344069b"
+    "value": "vpc-05f452af06e9b3406"
   }
 }
