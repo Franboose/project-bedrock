@@ -34,5 +34,5 @@ output "dev_user_console_password" {
   sensitive = true
 }
 output "console_login_url" {
-  value = "https://656867847125.signin.aws.amazon.com/console"
+  value = "https://713729539092.signin.aws.amazon.com/console"
 }

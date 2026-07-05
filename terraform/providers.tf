@@ -5,10 +5,11 @@ terraform {
     archive = { source = "hashicorp/archive", version = "~> 2.0" }
   }
   backend "s3" {
-    bucket  = "project-bedrock-tfstate-656867847125"
-    key     = "project-bedrock/terraform.tfstate"
-    region  = "us-east-1"
-    encrypt = true
+    bucket         = "tfstate-karatu-student-003"
+    key            = "project-bedrock/terraform.tfstate"
+    region         = "us-east-1"
+    encrypt        = true
+    use_lockfile = true
   }
 }
 provider "aws" {
