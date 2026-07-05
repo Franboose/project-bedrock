@@ -19,19 +19,9 @@
     "type": "string",
     "value": "https://713729539092.signin.aws.amazon.com/console"
   },
-  "dev_user_access_key_id": {
-    "sensitive": false,
-    "type": "string",
-    "value": "AKIA2MLMYPQKHC36QHO2"
-  },
-  "dev_user_console_password": {
-    "value": "REDACTED - submitted via Google Doc",
-    "sensitive": true
-  },
-  "dev_user_secret_key": {
-    "value": "REDACTED - submitted via Google Doc",
-    "sensitive": true
-  },
+  "dev_user_access_key_id": "REDACTED - see submission Google Doc",
+  "dev_user_console_password": "REDACTED - see submission Google Doc",
+  "dev_user_secret_key": "REDACTED - see submission Google Doc",
   "dynamodb_table_name": {
     "sensitive": false,
     "type": "string",
