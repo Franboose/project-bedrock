@@ -25,14 +25,12 @@
     "value": "AKIA2MLMYPQKHC36QHO2"
   },
   "dev_user_console_password": {
-    "sensitive": true,
-    "type": "string",
-    "value": "gla)mceAXQRZ42JVLFpp"
+    "value": "REDACTED - submitted via Google Doc",
+    "sensitive": true
   },
   "dev_user_secret_key": {
-    "sensitive": true,
-    "type": "string",
-    "value": "iOa/+OMQwsIL8/1ZhD8lzvjl169UCFOsh+cAvHQe"
+    "value": "REDACTED - submitted via Google Doc",
+    "sensitive": true
   },
   "dynamodb_table_name": {
     "sensitive": false,
